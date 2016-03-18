@@ -1,0 +1,17 @@
+{
+    "name": "bfolliot/project-skeleton",
+    "description": "Base skeleton for PHP projects",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "m6web/coke": "^2.1",
+        "phpspec/phpspec": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Bryan Folliot",
+            "email": "dev@bryanfolliot.fr"
+        }
+    ]
+}

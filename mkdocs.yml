@@ -1,0 +1,5 @@
+docs_dir: doc
+site_dir: doc/html
+site_name: Project skeleton
+repo_url: 'https://github.com/bfolliot/project-skeleton'
+copyright: 'Copyright (c) 2016 Bryan Folliot'
